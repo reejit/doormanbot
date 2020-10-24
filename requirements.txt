@@ -1,7 +1,7 @@
 certifi==2020.6.20
 chardet==3.0.4
 idna==2.10
-pkg-resources==0.0.0
+pkg-resources
 pyTelegramBotAPI==3.7.2
 python-decouple==3.3
 requests==2.20.0
