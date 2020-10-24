@@ -2,6 +2,9 @@
 
 _Doorman is a bot created for groups, it function is to know when someone enters a group and will ask them to answer an easy captcha, if they don't answer it the bot will kick them in 5 minutes._
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reejit/doormanbot)
+
 [![Build Status](https://travis-ci.org/doge/wow.svg)](https://travis-ci.org/doge/wow)
 [![Dependency Status](http://img.shields.io/gemnasium/doge/wow.svg)](https://gemnasium.com/doge/wow)
 [![Coverage Status](http://img.shields.io/coveralls/doge/wow.svg)](https://coveralls.io/r/doge/wow)
